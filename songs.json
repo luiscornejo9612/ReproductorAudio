@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Cançó 1",
+        "artist": "Artista 1",
+        "path": "./cansiones/flow-211881.mp3",
+        "duration": "3:00",
+        "img": "./caratulas/348e5e077fe6d84abe8262d9c72b322c.jpg"
+    },
+    {
+        "name": "Cançó 2",
+        "artist": "Artista 2",
+        "path": "./cansiones/for-her-chill-upbeat-summel-travel-vlog-and-ig-music-royalty-free-use-202298.mp3",
+        "duration": "0:27",
+        "img": "./caratulas/images4.jpg"
+    },
+    {
+        "name": "Cançó 3",
+        "artist": "Artista 3",
+        "path": "./cansiones/groovy-ambient-funk-201745.mp3",
+        "duration": "2:45",
+        "img": "./caratulas/images5.jpg"
+    }
+]
